@@ -1,0 +1,5 @@
+venv/
+chrome.app/
+output/
+.DS_Store
+db/
